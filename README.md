@@ -10,9 +10,7 @@
 ## 🚀 About Me
 - 🎓 CSE Student at **University of Asia Pacific**
 - 💡 Passionate about **Data Science & AI**
-- 🛠️ Building real-world systems using **Web + IoT**
 - 📈 Currently improving **problem-solving & system design**
-- ⚡ Love working on **impactful projects**
 
 ---
 
@@ -21,40 +19,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,tailwind,git,github,c,cpp,python" />
 </p>
-
----
-
-## 🔥 Featured Projects
-
-### 🛒 Fin-Tap Shoppify (AI Shopping System)
-- AI-driven smart shopping experience
-- Personalized recommendations
-- Streamlined online + offline integration  
-👉 [View Project](https://github.com/YOUR_USERNAME/PROJECT_LINK)
-
----
-
-### 📚 Resource Sharing Web App (MERN)
-- Upload, search, and filter academic resources
-- Firebase Authentication + Cloudinary integration
-- Responsive UI with dark mode  
-👉 [View Project](https://github.com/YOUR_USERNAME/PROJECT_LINK)
-
----
-
-### 🗑️ Smart Dustbin (IoT Project)
-- Automatic lid + waste level detection
-- Blynk app integration with notifications
-- Real-time monitoring system  
-👉 [View Project](https://github.com/YOUR_USERNAME/PROJECT_LINK)
-
----
-
-### 🤖 Voice-Controlled Robot
-- Human voice command-based movement
-- Forward, backward & rotation control
-- Built for Robotics Fest  
-👉 [View Project](https://github.com/YOUR_USERNAME/PROJECT_LINK)
 
 ---
 
@@ -70,7 +34,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohiuddinahmed21&theme=tokyo-night" />
 </p>
 
 ---
@@ -85,14 +49,14 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:your@email.com">Email</a> •
-  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> •
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+  <a href="mailto:mohiuddinahmed121@email.com">Email</a> •
+  <a href="https://linkedin.com/in/mohiuddin-ahmed-585417225/">LinkedIn</a> •
+  <a href="https://github.com/mohiuddinahmed121">GitHub</a>
 </p>
 
 ---
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=mohiuddinahmed121&color=blue" />
 </p>
