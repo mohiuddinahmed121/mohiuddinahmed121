@@ -7,10 +7,10 @@
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,tailwind,git,github,c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,tailwind,git,github,c,cpp,java,python" />
 </p>
 
 ---
@@ -27,15 +27,8 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohiuddinahmed21&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohiuddinahmed121&theme=tokyo-night" />
 </p>
-
----
-
-## 🌱 Currently Learning
-- 📊 Data Science & Machine Learning
-- ⚙️ System Design & Backend Optimization
-- ☁️ Cloud & Deployment
 
 ---
 
