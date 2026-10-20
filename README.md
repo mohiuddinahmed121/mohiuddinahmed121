@@ -4,7 +4,9 @@
 
 # Hi 👋, I'm Mohiuddin Ahmed
 
-<h3 align="center">CSE Student | Full-Stack Developer | Exploring AI & Data Science</h3>
+<h3 align="center">
+  CSE Graduate | Full-Stack Developer
+</h3>
 
 <p align="center">
   Building web applications with modern frontend and backend technologies.
@@ -21,11 +23,9 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science & Engineering Graduate from **University of Asia Pacific**
-- 💻 Interested in **Full-Stack Web Development**
-- 📈 Improving my problem-solving and software design skills
+- 💻 Full-Stack Developer
+- 📈 Improving my **problem-solving and software design skills**
 - 🛠️ Building practical projects with modern web technologies
-
-## 🛠️ Tech Stack
 
 ### Frontend
 <p>
