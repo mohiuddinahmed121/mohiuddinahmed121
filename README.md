@@ -1,29 +1,105 @@
-<h1 align="center">Hi 👋, I'm Mohiuddin</h1>
+<p align="center">
+  <img src="./Neon Developer Portfolio Workspace.png" alt="Mohiuddin Ahmed - Full Stack Developer" />
+</p>
 
-## 🚀 About Me
-- 🎓 CSE Student at **University of Asia Pacific**
-- 💡 Passionate about **Data Science & AI**
-- 📈 Currently improving **problem-solving & system design**
+# Hi 👋, I'm Mohiuddin Ahmed
+
+<h3 align="center">CSE Student | Full-Stack Developer | Exploring AI & Data Science</h3>
+
+<p align="center">
+  Building web applications with modern frontend and backend technologies.
+</p>
+
+<p align="center">
+  <a href="https://github.com/mohiuddinahmed121">
+    <img src="https://komarev.com/ghpvc/?username=mohiuddinahmed121&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
 ---
+
+## 🚀 About Me
+
+- 🎓 Computer Science & Engineering Graduate from **University of Asia Pacific**
+- 💻 Interested in **Full-Stack Web Development**
+- 📈 Improving my problem-solving and software design skills
+- 🛠️ Building practical projects with modern web technologies
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,tailwind,git,github,c,cpp,java,python" />
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" alt="Frontend Technologies" />
 </p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" alt="Backend Technologies" />
+</p>
+
+### Database, Authentication & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis,git,github,postman" alt="Database and Tools" />
+</p>
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" alt="Programming Languages" />
+</p>
+
+### Other Technologies
+
+- **ORM & Validation:** Prisma ORM, Zod
+- **Authentication:** JWT, bcrypt, Google Authentication
+- **Email & Caching:** Nodemailer, Redis
+- **File Uploads:** Multer, Cloudinary
+- **Payment Integration:** bKash Payment Gateway, Stripe
+- **PDF Generation:** PDFKit
+- **Deployment:** Vercel
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Featured Projects
 
-<p align="center">
-  
-  <img src="https://streak-stats.demolab.com/?user=mohiuddinahmed121&theme=tokyonight" />
-</p>
+### FixItNow — Home Service Platform
+A full-stack platform designed to connect customers with home service technicians.
+
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express.js, TypeScript
+- **Database:** PostgreSQL, Prisma ORM
+- **Authentication & Payment:** JWT, Stripe
+
+[Frontend Repository](https://github.com/mohiuddinahmed121/FixItNow-frontend) · [Backend Repository](https://github.com/mohiuddinahmed121/FixItNow-Backend)
+
+### University Management System
+A university management backend focused on role-based access, authentication, academic resource management, and bKash payment integration.
+
+- Node.js, Express.js, TypeScript
+- PostgreSQL, Prisma ORM
+- JWT, Zod, Redis
+- Google Authentication, Nodemailer
+- Multer, Cloudinary, PDFKit
+- bKash Payment Gateway
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mohiuddinahmed121&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohiuddinahmed121&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohiuddinahmed121&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
 
 ## 📫 Connect With Me
 
