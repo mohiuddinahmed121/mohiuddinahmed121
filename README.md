@@ -64,6 +64,7 @@
 ## 💼 Featured Projects
 
 ### FixItNow — Home Service Platform
+
 A full-stack platform designed to connect customers with home service technicians.
 
 - **Frontend:** Next.js, React, TypeScript, Tailwind CSS
@@ -71,9 +72,10 @@ A full-stack platform designed to connect customers with home service technician
 - **Database:** PostgreSQL, Prisma ORM
 - **Authentication & Payment:** JWT, Stripe
 
-[Frontend Repository](https://github.com/mohiuddinahmed121/FixItNow-frontend) · [Backend Repository](https://github.com/mohiuddinahmed121/FixItNow-Backend)
+[Frontend Repository](https://github.com/mohiuddinahmed121/FixItNow-frontend) · [Backend Repository](https://github.com/mohiuddinahmed121/FixItNow-Backend) · [Live Demo](https://fixitnow-frontend-omega.vercel.app/)
 
 ### University Management System
+
 A university management backend focused on role-based access, authentication, academic resource management, and bKash payment integration.
 
 - Node.js, Express.js, TypeScript
@@ -82,6 +84,8 @@ A university management backend focused on role-based access, authentication, ac
 - Google Authentication, Nodemailer
 - Multer, Cloudinary, PDFKit
 - bKash Payment Gateway
+
+[Frontend Repository](https://github.com/mohiuddinahmed121/University-Management-System-Frontend) · [Backend Repository](https://github.com/mohiuddinahmed121/University-Management-System-Backend) · [Live Demo](https://university-management-system-fronte-azure.vercel.app/)
 
 ---
 
